@@ -1,0 +1,10 @@
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/test_snippets/MasterRunner.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/helper/CsvReader.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/recommender/RecommenderType.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/helper/Parser.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/helper/tfidf/ItemProfileVectorsGenerator.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/helper/tfidf/TitleAnalyzer.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/servlet/RecommenderServlet.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/recommender/RecommenderNode.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/recommender/similarity/ContentBasedItemSimilarity.java
+/Users/momoko/Desktop/EECS6893BigData/byou/src/main/java/com/momokoxu/myou/recommender/GenericRecommenderMaster.java
