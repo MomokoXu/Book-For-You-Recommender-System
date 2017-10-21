@@ -1,0 +1,2 @@
+# Introduction
+## BYOU is a fully functioning book recommender system which I built from scratch. It has user interface where users can put their ids on the website and get recommendation results from the website, a core recommender module that does data parsing and machine learning, four recommendation algorithms (one of which was designed myself with little dependency on existing libraries), and a backend server that hosts the service and coordinates communications between all modules. 
